@@ -1,9 +1,14 @@
 // Problem 1
 // declare a variable called fruit
+var=fruit
 // assign your variable the value "banana"
+let fruit= banana;
 // console log your variable
+console log ("fruit")
 // reassign your variable the value "peach"
+let banana= "peach"
 // console log your variable
+console.log "peach"
 
 // Problem 2
 // write a function called product that accepts two numbers and 
